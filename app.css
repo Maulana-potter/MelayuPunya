@@ -1,0 +1,19 @@
+body {
+background-color: rgb(145, 252, 207);
+font-family: 'Nunito', sans-serif;
+}
+#navbar {
+    font-size: 1.1rem;
+    font-weight: 100;
+}
+#navbar .nav-link:hover{
+ font-weight: bold;
+}
+#home {
+    padding-top: 6rem;
+}
+.contenttt{
+    
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
